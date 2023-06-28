@@ -10,7 +10,10 @@
   },
   "dependencies": {
     "autoprefixer": "10.4.14",
+    "formidable": "^3.4.0",
+    "fs": "^0.0.1-security",
     "next": "13.4.7",
+    "path": "^0.12.7",
     "postcss": "8.4.24",
     "react": "18.2.0",
     "react-dom": "18.2.0",
