@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import Link from "next/Link";
+import Link from "next/link";
 import { useEffect, useState } from "react";
 import fs from "fs/promises";
 import path from "path";
