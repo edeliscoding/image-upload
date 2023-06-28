@@ -66,7 +66,7 @@ export default function Home({ dirs }) {
 
   return (
     <div className="flex min-h-screen justify-center items-center">
-      <input type="file" onChange={handleFileChange} />
+      <input type="file" size="120" onChange={handleFileChange} />
       <button
         className="px-2 py-1 bg-slate-700 rounded-lg text-white ml-24"
         onClick={handleUpload}
